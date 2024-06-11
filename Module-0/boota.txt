@@ -1,0 +1,272 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 13:52 ?        00:00:03 /sbin/init splash
+root           2       0  0 13:52 ?        00:00:00 [kthreadd]
+root           3       2  0 13:52 ?        00:00:00 [rcu_gp]
+root           4       2  0 13:52 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 13:52 ?        00:00:00 [slub_flushwq]
+root           6       2  0 13:52 ?        00:00:00 [netns]
+root           8       2  0 13:52 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          11       2  0 13:52 ?        00:00:00 [mm_percpu_wq]
+root          12       2  0 13:52 ?        00:00:00 [rcu_tasks_kthread]
+root          13       2  0 13:52 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          14       2  0 13:52 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          15       2  0 13:52 ?        00:00:00 [ksoftirqd/0]
+root          16       2  0 13:52 ?        00:00:06 [rcu_preempt]
+root          17       2  0 13:52 ?        00:00:00 [migration/0]
+root          18       2  0 13:52 ?        00:00:00 [idle_inject/0]
+root          19       2  0 13:52 ?        00:00:00 [cpuhp/0]
+root          20       2  0 13:52 ?        00:00:00 [cpuhp/1]
+root          21       2  0 13:52 ?        00:00:00 [idle_inject/1]
+root          22       2  0 13:52 ?        00:00:00 [migration/1]
+root          23       2  0 13:52 ?        00:00:00 [ksoftirqd/1]
+root          25       2  0 13:52 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          26       2  0 13:52 ?        00:00:00 [cpuhp/2]
+root          27       2  0 13:52 ?        00:00:00 [idle_inject/2]
+root          28       2  0 13:52 ?        00:00:00 [migration/2]
+root          29       2  0 13:52 ?        00:00:00 [ksoftirqd/2]
+root          31       2  0 13:52 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          32       2  0 13:52 ?        00:00:00 [cpuhp/3]
+root          33       2  0 13:52 ?        00:00:00 [idle_inject/3]
+root          34       2  0 13:52 ?        00:00:00 [migration/3]
+root          35       2  0 13:52 ?        00:00:00 [ksoftirqd/3]
+root          36       2  0 13:52 ?        00:00:01 [kworker/3:0-events]
+root          37       2  0 13:52 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          38       2  0 13:52 ?        00:00:00 [cpuhp/4]
+root          39       2  0 13:52 ?        00:00:00 [idle_inject/4]
+root          40       2  0 13:52 ?        00:00:00 [migration/4]
+root          41       2  0 13:52 ?        00:00:00 [ksoftirqd/4]
+root          43       2  0 13:52 ?        00:00:00 [kworker/4:0H-events_highpri]
+root          44       2  0 13:52 ?        00:00:00 [cpuhp/5]
+root          45       2  0 13:52 ?        00:00:00 [idle_inject/5]
+root          46       2  0 13:52 ?        00:00:00 [migration/5]
+root          47       2  0 13:52 ?        00:00:00 [ksoftirqd/5]
+root          49       2  0 13:52 ?        00:00:00 [kworker/5:0H-events_highpri]
+root          50       2  0 13:52 ?        00:00:00 [cpuhp/6]
+root          51       2  0 13:52 ?        00:00:00 [idle_inject/6]
+root          52       2  0 13:52 ?        00:00:00 [migration/6]
+root          53       2  0 13:52 ?        00:00:23 [ksoftirqd/6]
+root          55       2  0 13:52 ?        00:00:00 [kworker/6:0H-events_highpri]
+root          56       2  0 13:52 ?        00:00:00 [cpuhp/7]
+root          57       2  0 13:52 ?        00:00:00 [idle_inject/7]
+root          58       2  0 13:52 ?        00:00:00 [migration/7]
+root          59       2  0 13:52 ?        00:00:00 [ksoftirqd/7]
+root          61       2  0 13:52 ?        00:00:00 [kworker/7:0H-events_highpri]
+root          62       2  0 13:52 ?        00:00:00 [kdevtmpfs]
+root          63       2  0 13:52 ?        00:00:00 [inet_frag_wq]
+root          65       2  0 13:52 ?        00:00:00 [kauditd]
+root          66       2  0 13:52 ?        00:00:00 [khungtaskd]
+root          67       2  0 13:52 ?        00:00:00 [oom_reaper]
+root          69       2  0 13:52 ?        00:00:00 [writeback]
+root          70       2  0 13:52 ?        00:00:00 [kcompactd0]
+root          71       2  0 13:52 ?        00:00:00 [ksmd]
+root          72       2  0 13:52 ?        00:00:00 [khugepaged]
+root          73       2  0 13:52 ?        00:00:00 [kintegrityd]
+root          74       2  0 13:52 ?        00:00:00 [kblockd]
+root          75       2  0 13:52 ?        00:00:00 [blkcg_punt_bio]
+root          77       2  0 13:52 ?        00:00:00 [tpm_dev_wq]
+root          79       2  0 13:52 ?        00:00:00 [ata_sff]
+root          80       2  0 13:52 ?        00:00:00 [md]
+root          81       2  0 13:52 ?        00:00:00 [md_bitmap]
+root          82       2  0 13:52 ?        00:00:00 [edac-poller]
+root          83       2  0 13:52 ?        00:00:00 [devfreq_wq]
+root          84       2  0 13:52 ?        00:00:00 [watchdogd]
+root          85       2  0 13:52 ?        00:00:21 [kworker/6:1-i915-unordered]
+root          87       2  0 13:52 ?        00:00:00 [kworker/0:1H-events_highpri]
+root          88       2  0 13:52 ?        00:00:00 [kswapd0]
+root          89       2  0 13:52 ?        00:00:00 [ecryptfs-kthread]
+root          90       2  0 13:52 ?        00:00:00 [kthrotld]
+root          91       2  0 13:52 ?        00:00:00 [irq/122-aerdrv]
+root          92       2  0 13:52 ?        00:00:00 [irq/123-aerdrv]
+root          93       2  0 13:52 ?        00:00:00 [acpi_thermal_pm]
+root          96       2  0 13:52 ?        00:00:00 [hwrng]
+root          97       2  0 13:52 ?        00:00:00 [mld]
+root          98       2  0 13:52 ?        00:00:00 [kworker/2:1H-kblockd]
+root          99       2  0 13:52 ?        00:00:00 [ipv6_addrconf]
+root         106       2  0 13:52 ?        00:00:00 [kstrp]
+root         116       2  0 13:52 ?        00:00:00 [charger_manager]
+root         135       2  0 13:52 ?        00:00:00 [kworker/5:1H-kblockd]
+root         139       2  0 13:52 ?        00:00:00 [kworker/3:1H-kblockd]
+root         151       2  0 13:52 ?        00:00:00 [kworker/1:1H-events_highpri]
+root         152       2  0 13:52 ?        00:00:00 [kworker/4:1H-kblockd]
+root         153       2  0 13:52 ?        00:00:00 [kworker/7:1H-kblockd]
+root         154       2  0 13:52 ?        00:00:00 [kworker/6:1H-kblockd]
+root         188       2  0 13:52 ?        00:00:00 [scsi_eh_0]
+root         189       2  0 13:52 ?        00:00:00 [scsi_tmf_0]
+root         190       2  0 13:52 ?        00:00:00 [scsi_eh_1]
+root         191       2  0 13:52 ?        00:00:00 [scsi_tmf_1]
+root         192       2  0 13:52 ?        00:00:00 [scsi_eh_2]
+root         193       2  0 13:52 ?        00:00:00 [scsi_tmf_2]
+root         194       2  0 13:52 ?        00:00:00 [scsi_eh_3]
+root         195       2  0 13:52 ?        00:00:00 [scsi_tmf_3]
+root         221       2  0 13:52 ?        00:00:01 [jbd2/sda2-8]
+root         222       2  0 13:52 ?        00:00:00 [ext4-rsv-conver]
+root         266       1  0 13:52 ?        00:00:03 /lib/systemd/systemd-journald
+root         332       1  0 13:52 ?        00:00:02 /lib/systemd/systemd-udevd
+root         370       2  0 13:52 ?        00:00:00 [irq/31-smo8800]
+root         376       2  0 13:52 ?        00:00:01 [kworker/7:2-i915-unordered]
+root         383       2  0 13:52 ?        00:00:00 [irq/128-mei_me]
+root         386       2  0 13:52 ?        00:00:00 [cfg80211]
+root         388       2  0 13:52 ?        00:00:00 [cryptd]
+root         397       2  0 13:52 ?        00:00:13 [irq/129-iwlwifi]
+root         460       2  0 13:52 ?        00:00:00 [ttm]
+root         461       2  0 13:52 ?        00:00:00 [card0-crtc0]
+root         462       2  0 13:52 ?        00:00:00 [card0-crtc1]
+root         463       2  0 13:52 ?        00:00:00 [card0-crtc2]
+systemd+     785       1  0 13:53 ?        00:00:22 /lib/systemd/systemd-oomd
+systemd+     786       1  0 13:53 ?        00:00:02 /lib/systemd/systemd-resolved
+systemd+     787       1  0 13:53 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         791       1  0 13:53 ?        00:00:00 /usr/libexec/accounts-daemon
+root         792       1  0 13:53 ?        00:00:01 /usr/sbin/acpid
+avahi        794       1  0 13:53 ?        00:00:02 avahi-daemon: running [aziz-Latitude-E5470.local]
+root         795       1  0 13:53 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+root         796       1  0 13:53 ?        00:00:00 /usr/sbin/cron -f -P
+message+     797       1  0 13:53 ?        00:00:04 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         798       1  0 13:53 ?        00:00:04 /usr/sbin/NetworkManager --no-daemon
+root         807       1  0 13:53 ?        00:00:01 /usr/sbin/irqbalance --foreground
+root         808       1  0 13:53 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         809       1  0 13:53 ?        00:00:03 /usr/libexec/polkitd --no-debug
+root         810       1  0 13:53 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       812       1  0 13:53 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         815       1  0 13:53 ?        00:00:06 /usr/lib/snapd/snapd
+root         816       1  0 13:53 ?        00:00:00 /usr/libexec/switcheroo-control
+root         817       1  0 13:53 ?        00:00:00 /lib/systemd/systemd-logind
+root         818       1  0 13:53 ?        00:00:26 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         820       1  0 13:53 ?        00:00:01 /usr/libexec/udisks2/udisksd
+root         821       1  0 13:53 ?        00:00:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        850     794  0 13:53 ?        00:00:00 avahi-daemon: chroot helper
+root         916       1  0 13:53 ?        00:00:00 /usr/sbin/cupsd -l
+root         920       1  0 13:53 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         922       1  0 13:53 ?        00:00:00 /usr/sbin/ModemManager
+root         981       1  0 13:53 ?        00:00:00 /usr/sbin/gdm3
+debian-+    1006       1  0 13:53 ?        00:00:05 /usr/bin/tor --defaults-torrc /usr/share/tor/tor-service-defaults-torrc -f /etc/tor/torrc --RunAsDaemon 0
+root        1066       1  0 13:53 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops    1073       1  0 13:53 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops    1075       1  0 13:53 ?        00:00:00 /usr/sbin/kerneloops
+rtkit       1109       1  0 13:53 ?        00:00:00 /usr/libexec/rtkit-daemon
+root        1275       1  0 13:53 ?        00:00:02 /usr/libexec/upowerd
+root        1282       1  0 13:53 ?        00:00:15 /usr/libexec/packagekitd
+colord      1494       1  0 13:53 ?        00:00:00 /usr/libexec/colord
+root        1681       2  0 14:08 ?        00:00:01 [kworker/4:1-events]
+root        1683       2  0 14:09 ?        00:00:03 [kworker/1:3-events]
+root        1688     981  0 14:09 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+aziz        1702       1  0 14:09 ?        00:00:01 /lib/systemd/systemd --user
+aziz        1703    1702  0 14:09 ?        00:00:00 (sd-pam)
+aziz        1711    1702  0 14:09 ?        00:00:00 /usr/bin/pipewire
+aziz        1712    1702  0 14:09 ?        00:00:00 /usr/bin/pipewire-media-session
+aziz        1713    1702  0 14:09 ?        00:00:06 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+aziz        1739    1702  0 14:09 ?        00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+aziz        1741    1702  0 14:09 ?        00:00:00 /usr/libexec/xdg-document-portal
+aziz        1744    1702  0 14:09 ?        00:00:00 /usr/libexec/xdg-permission-store
+root        1750    1741  0 14:09 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+aziz        1764       1  0 14:09 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+aziz        1774    1688  0 14:09 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+aziz        1777    1774  0 14:09 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+root        1796       2  0 14:09 ?        00:00:00 [krfcommd]
+aziz        1838    1702  0 14:10 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+aziz        1846    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfsd
+aziz        1853    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+aziz        1870    1702  0 14:10 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+aziz        1887    1870  0 14:10 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+aziz        1890    1702  3 14:10 ?        00:07:13 /usr/bin/gnome-shell
+aziz        1896    1887  0 14:10 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+aziz        1932    1702  0 14:10 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+aziz        1938    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+aziz        1943    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+aziz        1949    1702  0 14:10 ?        00:00:00 /usr/libexec/evolution-source-registry
+aziz        1953    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+aziz        1957    1702  0 14:10 ?        00:00:00 /usr/libexec/goa-daemon
+aziz        1964    1702  0 14:10 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+aziz        1974    1702  0 14:10 ?        00:00:00 /usr/libexec/goa-identity-service
+aziz        1976    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+aziz        1984    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+aziz        1995    1702  0 14:10 ?        00:00:00 /usr/libexec/dconf-service
+aziz        1999    1702  0 14:10 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+aziz        2012    1846  0 14:10 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.13 /org/gtk/gvfs/exec_spaw/0
+aziz        2022    1702  0 14:10 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+aziz        2024    1702  0 14:10 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+aziz        2042    1702  0 14:10 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+aziz        2043    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+aziz        2046    2042  0 14:10 ?        00:00:18 /usr/bin/ibus-daemon --panel disable
+aziz        2047    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-color
+aziz        2051    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-datetime
+aziz        2052    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-housekeeping
+aziz        2054    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-keyboard
+aziz        2056    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-media-keys
+aziz        2058    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-power
+aziz        2060    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-print-notifications
+aziz        2063    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-rfkill
+aziz        2065    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+aziz        2066    1702  0 14:10 ?        00:00:01 /usr/libexec/gsd-sharing
+aziz        2067    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-smartcard
+aziz        2068    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-sound
+aziz        2070    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-wacom
+aziz        2110    1702  0 14:10 ?        00:00:00 /usr/libexec/gsd-printer
+aziz        2113    1870  0 14:10 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+aziz        2128    1870  0 14:10 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+aziz        2176    2046  0 14:10 ?        00:00:00 /usr/libexec/ibus-dconf
+aziz        2177    2046  0 14:10 ?        00:00:03 /usr/libexec/ibus-extension-gtk3
+aziz        2199    1702  0 14:10 ?        00:00:00 /usr/libexec/ibus-portal
+aziz        2212    2046  0 14:10 ?        00:00:06 /usr/libexec/ibus-engine-simple
+aziz        2225    1702  0 14:10 ?        00:00:01 /usr/libexec/tracker-miner-fs-3
+aziz        2235    1702  0 14:10 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+aziz        2262    1702  0 14:10 ?        00:00:04 /snap/snap-store/1113/usr/bin/snap-store --gapplication-service
+aziz        2384    1702  0 14:10 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+aziz        2388    1702  0 14:10 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+aziz        2404    1702  0 14:10 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+aziz        2414    1702  0 14:10 ?        00:00:00 /snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration
+aziz        2472    2414  0 14:10 ?        00:00:00 /snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration
+aziz        2529    1702  0 14:10 ?        00:00:00 /usr/libexec/gvfsd-metadata
+aziz        2829    1870  0 14:11 ?        00:00:00 update-notifier
+aziz        2961    1846  0 14:11 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.13 /org/gtk/gvfs/exec_spaw/1
+aziz        2979    1846  0 14:11 ?        00:00:00 /usr/libexec/gvfsd-dnssd --spawner :1.13 /org/gtk/gvfs/exec_spaw/3
+aziz        3084    1890  2 14:13 ?        00:05:19 /opt/google/chrome/chrome
+aziz        3090    3084  0 14:13 ?        00:00:00 cat
+aziz        3091    3084  0 14:13 ?        00:00:00 cat
+aziz        3101    3084  0 14:13 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable
+aziz        3102    3084  0 14:13 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable
+aziz        3104    3102  0 14:13 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable
+aziz        3106    1890  0 14:13 ?        00:01:34 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.9L54O2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+aziz        3126    1702  0 14:13 ?        00:00:00 /usr/libexec/gsd-xsettings
+aziz        3159    1702  0 14:13 ?        00:00:00 /usr/libexec/ibus-x11
+aziz        3195    3101  4 14:13 ?        00:07:26 /opt/google/chrome/chrome --type=gpu-process --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        3197    3084  0 14:13 ?        00:01:24 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        3211    3104  0 14:13 ?        00:00:03 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        3229    1702  0 14:13 ?        00:00:43 /usr/libexec/gnome-terminal-server
+aziz        3272    3229  0 14:13 pts/0    00:00:00 bash
+aziz        3711    3084  0 14:14 ?        00:00:02 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        3721    3104  0 14:14 ?        00:00:05 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=1294641500 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        6987    1846  0 15:11 ?        00:00:00 /usr/libexec/gvfsd-http --spawner :1.13 /org/gtk/gvfs/exec_spaw/4
+root        7188       2  0 15:18 ?        00:00:01 [kworker/5:2-events]
+aziz        7437    3104  0 15:26 ?        00:00:56 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=241 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=5648558364 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        7458    3104  0 15:27 ?        00:00:02 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=242 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=5668328786 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        7665    3104  0 15:33 ?        00:00:19 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=254 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=6045471757 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        7675    3104  1 15:33 ?        00:01:40 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=255 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=6054094320 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        7900    3104  1 15:44 ?        00:01:10 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=267 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=6713737075 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        7993    1702  0 15:45 ?        00:00:00 /usr/lib/bluetooth/obexd
+aziz        8040    1890  0 15:49 ?        00:00:06 gnome-control-center bluetooth
+aziz        8279    3104  0 15:55 ?        00:00:28 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=283 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=7391856327 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+aziz        8304    3104  0 15:55 ?        00:00:13 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=286 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=7396931035 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+root        8383       2  0 16:00 ?        00:00:00 [kworker/u16:1-flush-8:0]
+aziz        8389    1702  0 16:00 ?        00:00:03 /usr/bin/nautilus --gapplication-service
+root        8589       2  0 16:09 ?        00:00:01 [kworker/u17:2-rb_allocator]
+root        8636       2  0 16:11 ?        00:00:00 [kworker/u16:0-events_unbound]
+aziz        8791    3104  0 16:17 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=303 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=8725437216 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+root        8972       2  0 16:40 ?        00:00:00 [kworker/0:2-events]
+root        9039       2  0 16:40 ?        00:00:00 [kworker/2:2-events]
+aziz        9078    3104  0 16:41 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=3093 --enable-crash-reporter=c69e294d-8c54-4e6d-bfac-631042248507, --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=309 --time-ticks-at-unix-epoch=-1717750353993220 --launch-time-ticks=10160479562 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,3085541940106826193,15591581940162903786,262144 --variations-seed-version=20240606-180134.421000
+root        9192       2  0 16:56 ?        00:00:00 [kworker/7:1-mm_percpu_wq]
+root        9193       2  0 16:57 ?        00:00:00 [kworker/3:1-inet_frag_wq]
+root        9202       2  0 17:00 ?        00:00:00 [kworker/2:1-events]
+root        9204       2  0 17:01 ?        00:00:00 [kworker/6:2-events]
+aziz        9224    1890  0 17:04 ?        00:00:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1366:768:1:27:0:0:0:0
+root        9269       2  0 17:04 ?        00:00:00 [kworker/1:0-events]
+root        9270       2  0 17:04 ?        00:00:00 [kworker/u16:2-flush-8:0]
+root        9276       2  0 17:04 ?        00:00:00 [kworker/5:1-cgroup_destroy]
+root        9280       2  0 17:04 ?        00:00:00 [kworker/u17:1+i915_flip]
+root        9289       2  0 17:05 ?        00:00:00 [kworker/0:0-events]
+root        9290       2  0 17:05 ?        00:00:00 [kworker/4:0-events]
+root        9357       2  0 17:10 ?        00:00:00 [kworker/u17:0-rb_allocator]
+root        9362       2  0 17:11 ?        00:00:00 [kworker/5:0]
+root        9363       2  0 17:11 ?        00:00:00 [kworker/3:2-cgroup_destroy]
+root        9369       2  0 17:12 ?        00:00:00 [kworker/u16:3-ext4-rsv-conversion]
+aziz        9409    3272  0 17:13 pts/0    00:00:00 ps -ef
