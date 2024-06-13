@@ -4,7 +4,7 @@
 #define Area(r) (PI*r*r)
 float r,a;
 int main(){
-printf("please enter radius\n");
+printf("please enter radius of circle\n");
 scanf("%f",&r);
-printf("Area of square will be= %f",Area(r));
+printf("Area of circle will be= %f",Area(r));
 }
