@@ -1,0 +1,185 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aziz/Downloads/Medslab/my-project/computer_architecture
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1721798143
+!i10b 1
+!s100 _]ZZO]0X_3mERQ7eZD9R50
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I61=SzgVeJ?OA83`M23hgo0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1721798138
+8alu.sv
+Falu.sv
+!i122 36
+L0 1 25
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1721798143.000000
+!s107 single_cycle_processor_tb.sv|single_cycle_processor.sv|registerfile.sv|pc.sv|instruction_memory.sv|controller.sv|alu.sv|
+Z7 !s90 -work|work|alu.sv|controller.sv|instruction_memory.sv|pc.sv|registerfile.sv|single_cycle_processor.sv|single_cycle_processor_tb.sv|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vcontroller
+R1
+R2
+!i10b 1
+!s100 ?AoYRb:fX2hSHX:JfO5g53
+R3
+IlOciAbPRo?iSOTfmcC=3h3
+R4
+S1
+R0
+w1721796476
+8controller.sv
+Fcontroller.sv
+!i122 36
+L0 1 39
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 single_cycle_processor_tb.sv|single_cycle_processor.sv|registerfile.sv|pc.sv|instruction_memory.sv|controller.sv|alu.sv|
+R7
+!i113 1
+R8
+R9
+vinstruction_memory
+R1
+R2
+!i10b 1
+!s100 66P^@NQFC>e1=Ld>_V1dm1
+R3
+Ikf3]SDZz`^aQ39GR_U_[f2
+R4
+S1
+R0
+w1721797572
+8instruction_memory.sv
+Finstruction_memory.sv
+!i122 36
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vpc
+R1
+R2
+!i10b 1
+!s100 IbgT1M9z@8_c`P92[Pm_H1
+R3
+ILYTI1IKk<77m6CnM3zVYT1
+R4
+S1
+R0
+w1721796482
+8pc.sv
+Fpc.sv
+!i122 36
+L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vregisterfile
+R1
+R2
+!i10b 1
+!s100 VNNQ5==FG>48=]iR6eN<Q3
+R3
+I?WJ:ClfHJhfCEddTzYVn[2
+R4
+S1
+R0
+w1721796485
+8registerfile.sv
+Fregisterfile.sv
+!i122 36
+Z11 L0 1 20
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vsingle_cycle_processor
+R1
+R2
+!i10b 1
+!s100 YOR[E9zCjilf81V]g;oo53
+R3
+INncd0Db3e;[^4@7VOFihd2
+R4
+S1
+R0
+w1721796491
+8single_cycle_processor.sv
+Fsingle_cycle_processor.sv
+!i122 36
+L0 1 12
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vsingle_cycle_processor_tb
+R1
+R2
+!i10b 1
+!s100 N__W^i]3SHcFW7XFbz8H^3
+R3
+IKj=hdMW^MoA2T`L?FXWUj3
+R4
+S1
+R0
+w1721796488
+8single_cycle_processor_tb.sv
+Fsingle_cycle_processor_tb.sv
+!i122 36
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
