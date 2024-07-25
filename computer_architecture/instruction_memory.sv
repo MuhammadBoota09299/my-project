@@ -7,11 +7,21 @@ module instruction_memory (
         mechine_code=instruction_memory_reg[mem_adress[31:2]];
     end
     initial begin
-        instruction_memory_reg[1]=32'h002081B3;
-        instruction_memory_reg[2]=32'h40308233;
-        instruction_memory_reg[3]=32'h0041F2B3;
-        instruction_memory_reg[4]=32'h0042E333;
-        instruction_memory_reg[5]=32'h005323B3;
+        instruction_memory_reg[4'd1]=32'h002081B3;
+        instruction_memory_reg[4'd2]=32'h40308233;
+        instruction_memory_reg[4'd3]=32'h0041F2B3;
+        instruction_memory_reg[4'd4]=32'h0042E333;
+        instruction_memory_reg[4'd5]=32'h005323B3;
+        instruction_memory_reg[4'd6]=32'h00610193;
+        instruction_memory_reg[4'd7]=32'h0023A413;
+        instruction_memory_reg[4'd8]=32'h00343493;
+        instruction_memory_reg[4'd9]=32'h0044C513;
+        instruction_memory_reg[4'd10]=32'h0;
+        instruction_memory_reg[4'd11]=32'h0;
+        instruction_memory_reg[4'd12]=32'h0;
+        instruction_memory_reg[4'd12]=32'h0;
+        instruction_memory_reg[4'd12]=32'h0;
+;
     end
     
 
