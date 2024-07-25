@@ -1,39 +1,49 @@
 module controller (
     input logic [31:0]instructions ,
-    output logic [2:0]operations,logic write_enable
+    output logic [3:0]operations,
+    output logic write_enable,mux2_1_enable
 );
-logic [16:0]opcode_f3_f7;
-always_comb begin 
-    opcode_f3_f7={instructions[31:25],instructions[14:12],instructions[6:0]};
-    case (opcode_f3_f7)
-     17'b00000000000110011:begin
-     write_enable=1'b1;operations=3'h0;
-      end 
-     17'b01000000000110011:begin
-     write_enable=1'b1;operations=3'h1;
-      end 
-     17'b00000000010110011:begin
-     write_enable=1'b1;operations=3'h2;
-      end 
-     17'b00000000100110011:begin
-     write_enable=1'b1;operations=3'h3;
-      end 
-     17'b00000001000110011:begin
-     write_enable=1'b1;operations=3'h4;
-      end 
-     17'b00000001010110011:begin
-     write_enable=1'b1;operations=3'h5;
-      end 
-     17'b00000001100110011:begin
-     write_enable=1'b1;operations=3'h6;
-      end  
-     17'b00000001110110011:begin
-     write_enable=1'b1;operations=3'h7; 
-     end 
-        default:begin
-        write_enable=1'b0;operations=3'h0; 
-        end
-    endcase
+logic [2:0]f3;
+logic [6:0]f7;
+logic [6:0]opcode;
+always_comb begin
+    opcode=instructions[6:0];
+    f3=instructions[14:12];
+    f7=instructions[31:25];
+if (opcode==7'b0110011 || opcode==7'b0010011)begin
+    write_enable=1'b1;
+    case (f3)
+         3'b000:if (f7==7'b0100000) begin
+             operations=4'h1;
+         end 
+         else begin 
+            operations=4'h0;
+         end
+         3'b001:operations=4'h2;
+         3'b010:operations=4'h3;
+         3'b011:operations=4'h4;
+         3'b100:operations=4'h5;
+         3'b101:if (f7==7'b0100000) begin
+             operations=4'h7;
+         end 
+         else begin 
+            operations=4'h6;
+         end
+         3'b110:operations=4'h8;
+         3'b111:operations=4'h9; 
+            default:begin 
+                operations=4'd0; 
+            end
+        endcase 
+end 
+else begin
+        write_enable=1'b0;
 end
-    
+if (opcode==7'b0010011) begin
+    mux2_1_enable=1'b0;
+end   
+else begin
+    mux2_1_enable=1'b1;
+end
+end
 endmodule

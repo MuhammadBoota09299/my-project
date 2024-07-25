@@ -7,7 +7,7 @@ initial begin
    clock=1'b0;
    #2;
    reset =1'b0;
-   #10;
+   #20;
    reset =1'b1; 
    #5;
    $stop;
