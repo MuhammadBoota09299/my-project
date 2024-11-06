@@ -1,0 +1,1220 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu
+Xcf_math_pkg
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1724051540
+!i10b 1
+!s100 M`XP_^8YB?aFdNkI8Q9m^1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5izlC>F?i:9_9?b4iJD<b3
+V5izlC>F?i:9_9?b4iJD<b3
+S1
+R0
+Z4 w1723792378
+8common_cells/src/cf_math_pkg.sv
+Fcommon_cells/src/cf_math_pkg.sv
+!i122 75
+L0 18 0
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1724051539.000000
+!s107 common_cells/registers.svh|fpnew_opgroup_block.sv|common_cells/src/rr_arb_tree.sv|fpnew_rounding.sv|fpnew_opgroup_multifmt_slice.sv|fpnew_opgroup_fmt_slice.sv|fpnew_noncomp.sv|fpnew_fma_multi.sv|common_cells/src/lzc.sv|fpnew_divsqrt_th_32.sv|fpnew_divsqrt_multi.sv|fpnew_cast_multi.sv|fpnew_fma.sv|fpnew_classifier.sv|tb_cv32e40p_fp_wrapper.sv|fpnew_top.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/preprocess_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/nrbd_nrsc_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/norm_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/iteration_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_top_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_mvp_wrapper.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/defs_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/control_mvp.sv|cv32e40p_fp_wrapper.sv|opene906/E906_RTL_FACTORY/gen_rtl/clk/rtl/gated_clk_cell.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_top.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_srt_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_special.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_round_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_prepare.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_pack_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ff1.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ctrl.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_src_type.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_frbus.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_dp.v|common_cells/src/cf_math_pkg.sv|include/cv32e40p_pkg.sv|include/cv32e40p_fpu_pkg.sv|include/cv32e40p_apu_core_pkg.sv|fpu_parameters.sv|fpnew_pkg.sv|
+Z7 !s90 -work|work|fpnew_pkg.sv|fpu_parameters.sv|include/cv32e40p_apu_core_pkg.sv|include/cv32e40p_fpu_pkg.sv|include/cv32e40p_pkg.sv|common_cells/src/cf_math_pkg.sv|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_dp.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_frbus.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_src_type.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ctrl.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ff1.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_pack_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_prepare.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_round_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_special.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_srt_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_top.v|opene906/E906_RTL_FACTORY/gen_rtl/clk/rtl/gated_clk_cell.v|cv32e40p_fp_wrapper.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/control_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/defs_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_mvp_wrapper.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_top_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/iteration_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/norm_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/nrbd_nrsc_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/preprocess_mvp.sv|fpnew_top.sv|tb_cv32e40p_fp_wrapper.sv|fpnew_classifier.sv|fpnew_fma.sv|fpnew_cast_multi.sv|fpnew_divsqrt_multi.sv|fpnew_divsqrt_th_32.sv|common_cells/src/lzc.sv|fpnew_fma_multi.sv|fpnew_noncomp.sv|fpnew_opgroup_fmt_slice.sv|fpnew_opgroup_multifmt_slice.sv|fpnew_rounding.sv|common_cells/src/rr_arb_tree.sv|fpnew_opgroup_block.sv|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vcontrol_mvp
+R1
+Z10 DXx4 work 17 defs_div_sqrt_mvp 0 22 S;jX9?87Vl=co:BT8eT>n2
+DXx4 work 19 control_mvp_sv_unit 0 22 6UPYC<^=S4L5X:4oUQzRJ1
+R2
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 =ATaM<R0XGLMh2lePQz<31
+I2m[X[;]XHbTJM4WHPm1O]1
+!s105 control_mvp_sv_unit
+S1
+R0
+Z12 w1723094915
+Z13 8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/control_mvp.sv
+Z14 F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/control_mvp.sv
+!i122 75
+L0 43 3371
+R5
+31
+R6
+Z15 !s107 common_cells/registers.svh|fpnew_opgroup_block.sv|common_cells/src/rr_arb_tree.sv|fpnew_rounding.sv|fpnew_opgroup_multifmt_slice.sv|fpnew_opgroup_fmt_slice.sv|fpnew_noncomp.sv|fpnew_fma_multi.sv|common_cells/src/lzc.sv|fpnew_divsqrt_th_32.sv|fpnew_divsqrt_multi.sv|fpnew_cast_multi.sv|fpnew_fma.sv|fpnew_classifier.sv|tb_cv32e40p_fp_wrapper.sv|fpnew_top.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/preprocess_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/nrbd_nrsc_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/norm_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/iteration_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_top_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_mvp_wrapper.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/defs_div_sqrt_mvp.sv|/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/control_mvp.sv|cv32e40p_fp_wrapper.sv|opene906/E906_RTL_FACTORY/gen_rtl/clk/rtl/gated_clk_cell.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_top.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_srt_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_special.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_round_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_prepare.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_pack_single.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ff1.v|opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ctrl.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_src_type.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_frbus.v|opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_dp.v|common_cells/src/cf_math_pkg.sv|include/cv32e40p_pkg.sv|include/cv32e40p_fpu_pkg.sv|include/cv32e40p_apu_core_pkg.sv|fpu_parameters.sv|fpnew_pkg.sv|
+R7
+!i113 1
+R8
+R9
+Xcontrol_mvp_sv_unit
+R1
+R10
+R2
+V6UPYC<^=S4L5X:4oUQzRJ1
+r1
+!s85 0
+!i10b 1
+!s100 9@JhZbZSZ@Ckj1T0Hb6N50
+I6UPYC<^=S4L5X:4oUQzRJ1
+!i103 1
+S1
+R0
+R12
+R13
+R14
+!i122 75
+L0 41 0
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xcv32e40p_apu_core_pkg
+R1
+R2
+!i10b 1
+!s100 BfS6EaQkd8YdhjhSMgMk;1
+R3
+I:AaH34zKm3l2oW>Fj9f8k2
+V:AaH34zKm3l2oW>Fj9f8k2
+S1
+R0
+R4
+8include/cv32e40p_apu_core_pkg.sv
+Finclude/cv32e40p_apu_core_pkg.sv
+!i122 75
+L0 22 0
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vcv32e40p_fp_wrapper
+R1
+DXx4 work 21 cv32e40p_apu_core_pkg 0 22 :AaH34zKm3l2oW>Fj9f8k2
+DXx4 work 12 cv32e40p_pkg 0 22 1=@n78ZV2BYJIB3nKPXea3
+Z16 DXx4 work 9 fpnew_pkg 0 22 l]ZT9UIRj[`1lH34h:AKb2
+R2
+!i10b 1
+!s100 @f8N=8b4D4NYa[524`IdQ0
+R3
+II1d@Ngg2B`U?KU<5[JRO:1
+R11
+S1
+R0
+w1724050216
+8cv32e40p_fp_wrapper.sv
+Fcv32e40p_fp_wrapper.sv
+!i122 75
+L0 14 113
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xcv32e40p_fpu_pkg
+R1
+R2
+!i10b 1
+!s100 g0K<Iz1TXX5fWeV3QU9;K1
+R3
+Ii^giWZKiP9T:<gG]_H@DD2
+Vi^giWZKiP9T:<gG]_H@DD2
+S1
+R0
+R4
+8include/cv32e40p_fpu_pkg.sv
+Finclude/cv32e40p_fpu_pkg.sv
+!i122 75
+L0 38 0
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xcv32e40p_pkg
+R1
+R2
+!i10b 1
+!s100 5nGJ6cZ3TD6nCE3UDoNjY3
+R3
+I1=@n78ZV2BYJIB3nKPXea3
+V1=@n78ZV2BYJIB3nKPXea3
+S1
+R0
+w1724041325
+8include/cv32e40p_pkg.sv
+Finclude/cv32e40p_pkg.sv
+!i122 75
+L0 26 0
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xdefs_div_sqrt_mvp
+R1
+Z17 !s110 1724051541
+!i10b 1
+!s100 E9Y0`deSJDG<lWN3OSOc?2
+R3
+IS;jX9?87Vl=co:BT8eT>n2
+VS;jX9?87Vl=co:BT8eT>n2
+S1
+R0
+R12
+8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/defs_div_sqrt_mvp.sv
+F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/defs_div_sqrt_mvp.sv
+!i122 75
+L0 14 0
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vdiv_sqrt_mvp_wrapper
+R1
+R10
+DXx4 work 28 div_sqrt_mvp_wrapper_sv_unit 0 22 W>6J>Zeb[YCX6WJnNPeHE2
+R17
+R11
+r1
+!s85 0
+!i10b 1
+!s100 Ogn6ggUWfEkoAKnoZKHVE0
+I<b00^PS<1GOjakDcko`hF3
+!s105 div_sqrt_mvp_wrapper_sv_unit
+S1
+R0
+R12
+Z18 8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_mvp_wrapper.sv
+Z19 F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_mvp_wrapper.sv
+!i122 75
+L0 41 192
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xdiv_sqrt_mvp_wrapper_sv_unit
+R1
+R10
+R17
+VW>6J>Zeb[YCX6WJnNPeHE2
+r1
+!s85 0
+!i10b 1
+!s100 8B]lZfGNVK;M_A[zkTK_g2
+IW>6J>Zeb[YCX6WJnNPeHE2
+!i103 1
+S1
+R0
+R12
+R18
+R19
+!i122 75
+L0 39 0
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vdiv_sqrt_top_mvp
+R1
+R10
+DXx4 work 24 div_sqrt_top_mvp_sv_unit 0 22 59=n>UZzKPoBjcj<[n``21
+R17
+R11
+r1
+!s85 0
+!i10b 1
+!s100 _an?VW@2JecP]mS0z0M=[2
+ID@==M3DV4Y46ToCYfk]QI0
+!s105 div_sqrt_top_mvp_sv_unit
+S1
+R0
+R12
+Z20 8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_top_mvp.sv
+Z21 F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/div_sqrt_top_mvp.sv
+!i122 75
+L0 37 144
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xdiv_sqrt_top_mvp_sv_unit
+R1
+R10
+R17
+V59=n>UZzKPoBjcj<[n``21
+r1
+!s85 0
+!i10b 1
+!s100 EX2N4FzFXSFjmNVEjeEFJ1
+I59=n>UZzKPoBjcj<[n``21
+!i103 1
+S1
+R0
+R12
+R20
+R21
+!i122 75
+Z22 L0 35 0
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_cast_multi
+R1
+R16
+R17
+!i10b 1
+!s100 cN<M31hWPMmd0?@ao6gdn0
+R3
+IXba>K`b`gc<IcB?C6Fm:80
+R11
+S1
+R0
+R4
+8fpnew_cast_multi.sv
+Ffpnew_cast_multi.sv
+!i122 75
+L0 18 784
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_classifier
+R1
+R16
+R17
+!i10b 1
+!s100 ^>C:@EOR6`<5i^oRB0CX>1
+R3
+IVBFCGTfhSRcfKBKHgZKl10
+R11
+S1
+R0
+R4
+8fpnew_classifier.sv
+Ffpnew_classifier.sv
+!i122 75
+L0 16 59
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_divsqrt_multi
+R1
+R16
+R17
+!i10b 1
+!s100 RoWD`L9_b9k1;[lFSze8:0
+R3
+I9zi?;>o_S7MWJ_3o<<Odd0
+R11
+S1
+R0
+w1724049415
+8fpnew_divsqrt_multi.sv
+Ffpnew_divsqrt_multi.sv
+!i122 75
+L0 18 349
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_divsqrt_th_32
+R1
+R16
+R17
+!i10b 1
+!s100 2mG?]PT:kPcdKJHo_?oX23
+R3
+I9W6c66F:haGc>Dg7AgSIn1
+R11
+S1
+R0
+w1724048893
+8fpnew_divsqrt_th_32.sv
+Ffpnew_divsqrt_th_32.sv
+!i122 75
+L0 21 459
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_fma
+R1
+R16
+R17
+!i10b 1
+!s100 j76RI[DQBf3UNYn96:a>22
+R3
+I^N0G`eV]MHnmW0[01T0dm0
+R11
+S1
+R0
+R4
+8fpnew_fma.sv
+Ffpnew_fma.sv
+!i122 75
+L0 18 678
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_fma_multi
+R1
+R16
+R17
+!i10b 1
+!s100 nnPQ<PUHmBdH426nHU:3N1
+R3
+I;d@eNeGSQhiF=NkoK_EOo2
+R11
+S1
+R0
+R4
+8fpnew_fma_multi.sv
+Ffpnew_fma_multi.sv
+!i122 75
+L0 18 827
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_noncomp
+R1
+R16
+R17
+!i10b 1
+!s100 ^<g@MKzdB>8kJC?HAz]j51
+R3
+INg[=_^RAg0La2YC8bOZe_0
+R11
+S1
+R0
+R4
+8fpnew_noncomp.sv
+Ffpnew_noncomp.sv
+!i122 75
+L0 18 401
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_opgroup_block
+R1
+R16
+R17
+!i10b 1
+!s100 eY?SnJW45g7c>6h<W94UD2
+R3
+IWSSn]QYK]enRSaZA34_D92
+R11
+S1
+R0
+w1724051419
+8fpnew_opgroup_block.sv
+Ffpnew_opgroup_block.sv
+!i122 75
+L0 16 233
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_opgroup_fmt_slice
+R1
+R16
+R17
+!i10b 1
+!s100 kdHgYBbVKCBeSG8YDEFQ62
+R3
+IZf]0hmOoSHfbT^LfY;`gI3
+R11
+S1
+R0
+R4
+8fpnew_opgroup_fmt_slice.sv
+Ffpnew_opgroup_fmt_slice.sv
+!i122 75
+L0 16 284
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_opgroup_multifmt_slice
+R1
+R16
+R17
+!i10b 1
+!s100 kdSMYNB8:A7z]doAG4H?32
+R3
+InbFhlF[991GH<d=JjlhC_2
+R11
+S1
+R0
+w1724051416
+8fpnew_opgroup_multifmt_slice.sv
+Ffpnew_opgroup_multifmt_slice.sv
+!i122 75
+L0 18 505
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xfpnew_pkg
+R1
+R2
+!i10b 1
+!s100 RY3;Cg@_iCg5@IVWYXYAm2
+R3
+Il]ZT9UIRj[`1lH34h:AKb2
+Vl]ZT9UIRj[`1lH34h:AKb2
+S1
+R0
+R4
+8fpnew_pkg.sv
+Ffpnew_pkg.sv
+!i122 75
+L0 16 0
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_rounding
+R1
+R16
+R17
+!i10b 1
+!s100 ;?HJW>6=EdEGBD633GhaI0
+R3
+IneA4FdPm9LZbn>MD^Wd7c2
+R11
+S1
+R0
+R4
+8fpnew_rounding.sv
+Ffpnew_rounding.sv
+!i122 75
+L0 16 61
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vfpnew_top
+R1
+R16
+R17
+!i10b 1
+!s100 nla1BM1Uak6d?NO4eb<Z13
+R3
+Im@DV3<UbBi7WaGU]=_PaD2
+R11
+S1
+R0
+w1724051447
+8fpnew_top.sv
+Ffpnew_top.sv
+!i122 75
+L0 16 173
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xfpu_parameters
+R1
+R2
+!i10b 1
+!s100 DB:=848hZD7=E]KkSTB;R0
+R3
+I0M[REDIUG@6lF8C84mH>61
+V0M[REDIUG@6lF8C84mH>61
+S1
+R0
+w1724047103
+8fpu_parameters.sv
+Ffpu_parameters.sv
+!i122 75
+L0 1 0
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vgated_clk_cell
+R2
+!i10b 1
+!s100 PQ`Q]AkC>NhYBK;[k<fEE0
+R3
+I7FgP93M3_E]on:>iAdZ_n3
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/clk/rtl/gated_clk_cell.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/clk/rtl/gated_clk_cell.v
+!i122 75
+L0 16 35
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+viteration_div_sqrt_mvp
+R1
+R17
+!i10b 1
+!s100 IQD1fA2=l=ni_1eTCFb>60
+R3
+IN_Gz]CX_ihDAS;YUA<ocQ2
+R11
+S1
+R0
+R12
+8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/iteration_div_sqrt_mvp.sv
+F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/iteration_div_sqrt_mvp.sv
+!i122 75
+L0 32 30
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vlzc
+R1
+DXx4 work 11 cf_math_pkg 0 22 5izlC>F?i:9_9?b4iJD<b3
+R17
+!i10b 1
+!s100 MS1TgCc4bMJ]E_1f30zkl3
+R3
+Io8QDmbPQ:JK7g>g;jG^:h0
+R11
+S1
+R0
+R4
+8common_cells/src/lzc.sv
+Fcommon_cells/src/lzc.sv
+!i122 75
+L0 25 88
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vnorm_div_sqrt_mvp
+R1
+R10
+DXx4 work 25 norm_div_sqrt_mvp_sv_unit 0 22 0]<NjO8lbi6W5MWW]07:e0
+R17
+R11
+r1
+!s85 0
+!i10b 1
+!s100 UlgfMgBcR_eecaCkcR=En3
+IJAk?6o0za3GIlHL[deBzW3
+!s105 norm_div_sqrt_mvp_sv_unit
+S1
+R0
+R12
+Z23 8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/norm_div_sqrt_mvp.sv
+Z24 F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/norm_div_sqrt_mvp.sv
+!i122 75
+L0 46 425
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xnorm_div_sqrt_mvp_sv_unit
+R1
+R10
+R17
+V0]<NjO8lbi6W5MWW]07:e0
+r1
+!s85 0
+!i10b 1
+!s100 _zDcA2G3>dIRe<:Qzacn[1
+I0]<NjO8lbi6W5MWW]07:e0
+!i103 1
+S1
+R0
+R12
+R23
+R24
+!i122 75
+L0 44 0
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vnrbd_nrsc_mvp
+R1
+R10
+DXx4 work 21 nrbd_nrsc_mvp_sv_unit 0 22 i6`EUFd5kl<YTY6D0XOCA1
+R17
+R11
+r1
+!s85 0
+!i10b 1
+!s100 ]W?HgL4S]8DjaR;2UW^5>1
+IiN0LO>_7RdKX:H9L2e>Hn3
+!s105 nrbd_nrsc_mvp_sv_unit
+S1
+R0
+R12
+Z25 8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/nrbd_nrsc_mvp.sv
+Z26 F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/nrbd_nrsc_mvp.sv
+!i122 75
+L0 36 69
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xnrbd_nrsc_mvp_sv_unit
+R1
+R10
+R17
+Vi6`EUFd5kl<YTY6D0XOCA1
+r1
+!s85 0
+!i10b 1
+!s100 V@VWc=>a4]maL:^jCInzL1
+Ii6`EUFd5kl<YTY6D0XOCA1
+!i103 1
+S1
+R0
+R12
+R25
+R26
+!i122 75
+L0 34 0
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_ctrl
+R2
+!i10b 1
+!s100 8Td0k3P<GNE5n`ZPKb7k`2
+R3
+IKH;9MI4YFk1_zFFcoI5UU3
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ctrl.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ctrl.v
+!i122 75
+L0 17 764
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_ff1
+R2
+!i10b 1
+!s100 Co2h@S@@5bFf5`2d0WEm>3
+R3
+IAdB<MT0iDAHKo4gU_WSB62
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ff1.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_ff1.v
+!i122 75
+L0 17 145
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_pack_single
+R2
+!i10b 1
+!s100 [[3aa=<c4foJ6Lc9ZU9eZ1
+R3
+Ic?hZhSfiU3Ii;mgh>LnFd3
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_pack_single.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_pack_single.v
+!i122 75
+L0 17 256
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_prepare
+R2
+!i10b 1
+!s100 ^K5c3@zHfm[F?ST7B^MST2
+R3
+IV3PKFYi=4J2C_DNc1JPHf1
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_prepare.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_prepare.v
+!i122 75
+L0 17 267
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_round_single
+R2
+!i10b 1
+!s100 j_P[KQ]0KPDhf4NMXh:Q`3
+R3
+IcjEde7d;T6`9WWjYZj6n_3
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_round_single.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_round_single.v
+!i122 75
+L0 17 521
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_special
+R2
+!i10b 1
+!s100 7fcC<UP2ElcozN0gdD_i;0
+R3
+Il[ebCY=[d>MIfE_0zMFbf2
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_special.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_special.v
+!i122 75
+L0 17 326
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_srt_single
+R2
+!i10b 1
+!s100 OR2K>F=3;SlXOFKVC0kLQ0
+R3
+ICX4JkiSQSmT<T]^Z8RUaB2
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_srt_single.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_srt_single.v
+!i122 75
+L0 17 805
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fdsu_top
+R2
+!i10b 1
+!s100 85IQa7a534eQK`d82J=Fz3
+R3
+IV7n`SEKIZdZ]1G?2TBaI@0
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_top.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fdsu/rtl/pa_fdsu_top.v
+!i122 75
+L0 17 443
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fpu_dp
+R2
+!i10b 1
+!s100 cDlX:^81TgaT1BQUT<>K_1
+R3
+I<N6E:_H8_neDc2hG[;5KY2
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_dp.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_dp.v
+!i122 75
+L0 16 281
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fpu_frbus
+R2
+!i10b 1
+!s100 1kmEQ_DKE5><O@LV;AiC23
+R3
+I0bS2DelbeOH2IaJU;Y1R23
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_frbus.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_frbus.v
+!i122 75
+L0 16 73
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpa_fpu_src_type
+R2
+!i10b 1
+!s100 hhJ=ida4S6MNX2UMH]Aj42
+R3
+I7PDk@=OKzIR^0b<3G82iH3
+R11
+R0
+R4
+8opene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_src_type.v
+Fopene906/E906_RTL_FACTORY/gen_rtl/fpu/rtl/pa_fpu_src_type.v
+!i122 75
+L0 17 73
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vpreprocess_mvp
+R1
+R10
+DXx4 work 22 preprocess_mvp_sv_unit 0 22 `TPM6:MFId423B2o<3WC32
+R17
+R11
+r1
+!s85 0
+!i10b 1
+!s100 Wg_;0IQL@SW3ebPzPj5=@3
+Ihbj=HbVI@EM9NbaVJT`W;2
+!s105 preprocess_mvp_sv_unit
+S1
+R0
+R12
+Z27 8/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/preprocess_mvp.sv
+Z28 F/home/aziz/Downloads/Medslab/my-project/computer_architecture/fpu_new/fpu_div_sqrt_mvp/hdl/preprocess_mvp.sv
+!i122 75
+L0 37 389
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+Xpreprocess_mvp_sv_unit
+R1
+R10
+R17
+V`TPM6:MFId423B2o<3WC32
+r1
+!s85 0
+!i10b 1
+!s100 ]^gD6>GoBhT@c;e<_fRH`3
+I`TPM6:MFId423B2o<3WC32
+!i103 1
+S1
+R0
+R12
+R27
+R28
+!i122 75
+R22
+R5
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vrr_arb_tree
+R1
+R17
+!i10b 1
+!s100 MY942oU7PMm?2OP1<zmX80
+R3
+IFezK490Q17fIjJ0O8G;X:0
+R11
+S1
+R0
+R4
+8common_cells/src/rr_arb_tree.sv
+Fcommon_cells/src/rr_arb_tree.sv
+!i122 75
+L0 47 301
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
+vtb_cv32e40p_fp_wrapper
+R1
+R17
+!i10b 1
+!s100 <jSk>I^ed9?T0@0^^Uah42
+R3
+Il_bJCR;CbUJ1a:KX]4gJF1
+R11
+S1
+R0
+w1724047537
+8tb_cv32e40p_fp_wrapper.sv
+Ftb_cv32e40p_fp_wrapper.sv
+!i122 75
+L0 3 97
+R5
+r1
+!s85 0
+31
+R6
+R15
+R7
+!i113 1
+R8
+R9
